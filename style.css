@@ -1,0 +1,30 @@
+
+DIV{ 
+     /* border: 1px solid black */
+     
+     /* background-color: blueviolet; */
+     color: bisque;
+    }
+
+.left-division { 
+    vertical-align: top;
+    width: 45%;
+    height: 500px;
+    display: inline-block;
+    background-color: green;
+    
+}
+
+.right-division {
+    vertical-align: top;
+ height: 250px;
+    width: 30%;
+    display: inline-block;
+    background-color: red;
+    
+}
+.parent-container{
+    /* border: 3px solid black; */
+    width: 70%;
+    margin: auto;
+}
